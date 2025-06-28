@@ -10,14 +10,14 @@ YAML Ain't MarkUp Language
 
 # Introduction  
 
-YAML, is a very highly *compact* way to store serialisation files/data;   
-that can be used for the purpose of data exchange...;  
+YAML, is a very highly **compact** way to store serialisation files/data;   
+that can be used for the purpose of *data exchange*...;  
 meaning, files that can be exchanged between programs.  
 
 The reason why the format is so compact is because it uses *indentation*...;    
 in the same way that Python programming code makes extensive use of *indentation*;      
 and, this results in files that are much clearer to read/understand;     
-as well as, being far more *compact*.  
+as well as, being far more **compact**.  
 
 YAML files are saved using either:    
 - .yaml  
